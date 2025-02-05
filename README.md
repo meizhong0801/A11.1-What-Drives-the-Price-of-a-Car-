@@ -10,7 +10,7 @@ Salvage title cars are much cheaper than clean titles.
 Automatic transmission & fuel efficiency influence pricing
 
 # Model performance
-Best Model: Random Forest Regressor
-Highest accuracy for predicting prices.
-Handles missing and categorical data well.
-Recommended for real-world dealership pricing tools.
+Best Model: Random Forest Regressor  
+Highest accuracy for predicting prices.  
+Handles missing and categorical data well.  
+Recommended for real-world dealership pricing tools.  
