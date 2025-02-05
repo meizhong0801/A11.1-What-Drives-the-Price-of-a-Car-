@@ -14,3 +14,16 @@ Best Model: Random Forest Regressor
 Highest accuracy for predicting prices.  
 Handles missing and categorical data well.  
 Recommended for real-world dealership pricing tools.  
+
+# Business Recommendations for Dealerships  
+Pricing Strategies
+- Stock newer models for higher margins.  
+- Adjust prices based on mileage & condition.  
+- Offer competitive prices on high-mileage cars to move inventory faster.  
+- Prioritize popular makes & models, as they hold value longer.
+  
+# Inventory Optimization
+
+- Stock more fuel-efficient & automatic cars due to high demand.  
+- Monitor seasonal trends – demand shifts throughout the year.  
+- Use AI-driven pricing tools for dynamic, real-time price optimization.  
